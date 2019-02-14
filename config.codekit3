@@ -41,9 +41,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/build/css/_base.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -54,9 +54,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/build/css/_navigation.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -65,9 +65,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/css/bootstrap.min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/css/font-awesome.min.css": {
@@ -75,9 +75,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/css/font-awesome.min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/css/magnific-popup.css": {
@@ -85,9 +85,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/css/magnific-popup.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/css/owl.carousel.min.css": {
@@ -95,9 +95,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/css/owl.carousel.min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/css/style.css": {
@@ -105,9 +105,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/css/style.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/css/style.scss": {
@@ -119,7 +119,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/css/style.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -128,21 +128,21 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/favicon.ico",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/fontawesome-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/fontawesome-webfont.eot",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/fontawesome-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/build/fonts/fontawesome-webfont.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
@@ -152,42 +152,42 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/fontawesome-webfont.ttf",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/fontawesome-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/fontawesome-webfont.woff",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/fontawesome-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/fontawesome-webfont.woff2",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/FontAwesome.otf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/FontAwesome.otf",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/glyphicons-halflings-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/glyphicons-halflings-regular.eot",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/build/fonts/glyphicons-halflings-regular.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
@@ -197,35 +197,35 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/glyphicons-halflings-regular.ttf",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/glyphicons-halflings-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/glyphicons-halflings-regular.woff",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/glyphicons-halflings-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/glyphicons-halflings-regular.woff2",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/robleto-social.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/robleto-social.eot",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/robleto-social.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/build/fonts/robleto-social.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
@@ -235,23 +235,23 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/robleto-social.ttf",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/robleto-social.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/fonts/robleto-social.woff",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/fonts/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/build/fonts/style.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/source/img/apple-favicon.png": {
@@ -259,7 +259,7 @@
 		"iS": 9890,
 		"oA": 0,
 		"oAP": "/build/img/apple-favicon.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -270,7 +270,7 @@
 		"iS": 12762,
 		"oA": 0,
 		"oAP": "/build/img/apple-touch-icon-ipad.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -281,7 +281,7 @@
 		"iS": 22120,
 		"oA": 0,
 		"oAP": "/build/img/apple-touch-icon-iphone4.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -293,7 +293,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/bg-coffeeshop.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -303,7 +303,7 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/img/favicon.ico",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/img/gr-headshot.jpg": {
 		"ft": 16384,
@@ -311,7 +311,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/gr-headshot.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -322,7 +322,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/gr-headshotB.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -333,7 +333,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/img/gr-headshotC.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -343,7 +343,7 @@
 		"iS": 226584,
 		"oA": 0,
 		"oAP": "/build/img/port-georgetown-preview.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -354,7 +354,7 @@
 		"iS": 234613,
 		"oA": 0,
 		"oAP": "/build/img/port-georgetown.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -365,7 +365,7 @@
 		"iS": 177925,
 		"oA": 0,
 		"oAP": "/build/img/port-hasbizmodel.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -376,7 +376,7 @@
 		"iS": 166671,
 		"oA": 0,
 		"oAP": "/build/img/port-marketpass.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -387,7 +387,7 @@
 		"iS": 158955,
 		"oA": 0,
 		"oAP": "/build/img/port-premierpass.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -398,7 +398,7 @@
 		"iS": 185575,
 		"oA": 0,
 		"oAP": "/build/img/port-reports-preview.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -409,7 +409,7 @@
 		"iS": 211402,
 		"oA": 0,
 		"oAP": "/build/img/port-reports.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -420,7 +420,7 @@
 		"iS": 294112,
 		"oA": 0,
 		"oAP": "/build/img/port-robletofamily-preview.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -431,7 +431,7 @@
 		"iS": 574980,
 		"oA": 0,
 		"oAP": "/build/img/port-robletofamily.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -442,7 +442,7 @@
 		"iS": 107954,
 		"oA": 0,
 		"oAP": "/build/img/port-scorecards.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -453,7 +453,7 @@
 		"iS": 145295,
 		"oA": 0,
 		"oAP": "/build/img/port-totalincome-preview.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -464,7 +464,7 @@
 		"iS": 154386,
 		"oA": 0,
 		"oAP": "/build/img/port-totalincome.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -475,7 +475,7 @@
 		"iS": 0,
 		"oA": 0,
 		"oAP": "/build/img/port-ventureco-preview.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -486,7 +486,7 @@
 		"iS": 258738,
 		"oA": 0,
 		"oAP": "/build/img/port-ventureco.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -497,7 +497,7 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/js/bootstrap.min.js": {
 		"ft": 64,
@@ -505,7 +505,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/bootstrap.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -515,7 +515,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/imagesloaded.pkgd.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -525,7 +525,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/isotope.pkgd.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -535,7 +535,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/jquery.magnific-popup.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -545,7 +545,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/jquery.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -555,7 +555,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/jquery.typer.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -565,7 +565,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/main.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -575,7 +575,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/owl.carousel.min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -585,7 +585,7 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/build/js/particles.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -594,14 +594,14 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/mail/contact.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/video/video.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/build/video/video.mp4",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
