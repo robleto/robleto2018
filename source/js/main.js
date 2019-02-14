@@ -79,26 +79,26 @@ $(function(){
                 scrollY = $document.height() > allWindow.height();
                 scroll = true;
             
-            if (scrollY) {
+            // if (scrollY) {
                 
-                view = allWindow.height();
+            //     view = allWindow.height();
                     
-                if (deltaY < 0 || detail > 0) {
-                    root = (root + view) >= $document.height() ? root : root += step;
-                }
+            //     if (deltaY < 0 || detail > 0) {
+            //         root = (root + view) >= $document.height() ? root : root += step;
+            //     }
                 
-                if (deltaY > 0 || detail < 0) {
-                    root = root <= 0 ? 0 : root -= step;
-                }
+            //     if (deltaY > 0 || detail < 0) {
+            //         root = root <= 0 ? 0 : root -= step;
+            //     }
                 
-                $body.stop().animate({
-                    scrollTop: root
-                }, speed, option, function() {
-                    scroll = false;
-                });
-            }
+            //     $body.stop().animate({
+            //         scrollTop: root
+            //     }, speed, option, function() {
+            //         scroll = false;
+            //     });
+            // }
             
-            return false;
+            // return false;
             
         }).on('scroll', function() {
             
@@ -118,7 +118,7 @@ $(function(){
 
     // initialize Smooth Scrolling Only in Modern browsers
     if(animation) {
-    	jQuery.scrollSpeed(100, 700);
+    	jQuery.scrollSpeed(400, 700);
     }
 
 
